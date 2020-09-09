@@ -47,7 +47,7 @@
         "node-watch": "^0.5.8",
         "nonce": "^1.0.4",
         "redis": "^2.8.0",
-        "request": "^2.88.0",
+        "request": "^2.88.2",
         "stratum-pool": "git+https://github.com/s-nomp/node-stratum-pool.git"
     },
     "engines": {
